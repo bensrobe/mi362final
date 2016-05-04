@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02857274-9678-4a77-8e53-d9e578b3f70c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system.properties" afterPath="$PROJECT_DIR$/system.properties" />
-    </list>
+    <list default="true" id="02857274-9678-4a77-8e53-d9e578b3f70c" name="Default" comment="" />
     <ignored path="grails3-example.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -51,6 +49,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.06048387">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="system.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="system.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06048387">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
@@ -103,53 +111,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/people/edit.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/people/show.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.75">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-              <folding>
-                <marker date="1462400340000" expanded="true" signature="282:1224" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="createContactForm.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/people/createContactForm.gsp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-27.5">
               <caret line="44" column="82" selection-start-line="44" selection-start-column="82" selection-end-line="44" selection-end-column="82" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.416667">
-              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -1273,7 +1239,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.40229884" />
-    <property name="SearchEverywhereHistoryKey" value="url&#9;null&#9;null&#10;grails_hom&#9;PSI&#9;JAVA://grails.util.BuildSettings#GRAILS_HOME&#10;gradle&#9;FILE&#9;file:///Users/robertbens556/MI 362/final_project/grails3-example/gradle.properties" />
+    <property name="SearchEverywhereHistoryKey" value="vm&#9;PSI&#9;JAVA://sun.misc.VM&#10;maxmem&#9;PSI&#9;JAVA://java.nio.Bits#maxMemory&#10;maxMem&#9;PSI&#9;JAVA://java.lang.Runtime#maxMemory&#10;url&#9;null&#9;null&#10;grails_hom&#9;PSI&#9;JAVA://grails.util.BuildSettings#GRAILS_HOME&#10;gradle&#9;FILE&#9;file:///Users/robertbens556/MI 362/final_project/grails3-example/gradle.properties" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -1739,12 +1705,12 @@
       <workItem from="1462371078540" duration="425000" />
       <workItem from="1462372846561" duration="3000" />
       <workItem from="1462372968610" duration="1849000" />
-      <workItem from="1462383028728" duration="5694000" />
+      <workItem from="1462383028728" duration="6661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8902000" />
+    <option name="totallyTimeSpent" value="9869000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1848,14 +1814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/heroku/Person.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
@@ -1941,14 +1899,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1993,8 +1943,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06048387">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/lib/sa-jdi.jar!/sun/jvm/hotspot/runtime/VM.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325792">
+          <caret line="94" column="26" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/VM.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5361991">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/nio/Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45362905">
+          <caret line="622" column="33" selection-start-line="622" selection-start-column="33" selection-end-line="622" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39314517">
+          <caret line="669" column="23" selection-start-line="669" selection-start-column="23" selection-end-line="669" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06048387">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="45" />
           <folding />
         </state>
       </provider>
